@@ -1,5 +1,5 @@
 ![rect41754](https://user-images.githubusercontent.com/73914792/219943851-ba9d8460-630f-4ffc-bc19-b5852af9b4ce.png)
--481b-b033-eccfce1aee67.png)
+
 <h1 align="center">Taibi Mohamed Kamel Eddine</h1>
 <ul>
   <li>Computer scientist</li>
